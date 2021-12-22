@@ -1,4 +1,7 @@
-# Three.js Journey
+# Fluid State 
+Fluid Geometry
+
+![screenshot] (fluid geometry_preview.PNG)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
