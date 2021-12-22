@@ -1,7 +1,7 @@
 # Fluid State 
 Fluid Geometry
 
-fluid geometry_preview.PNG
+![Screenshot](fluid geometry_preview.PNG)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
